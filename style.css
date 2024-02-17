@@ -68,7 +68,7 @@ ul li a:hover:not(.active),.dropdown:hover .dropbtn{
   justify-content: center;
 }
 .content{
-  width: 280px;
+  width: 270px;
   border-radius: 10px;
   background-color: #ecf0f1;
   /* border: 1px solid #fff; */
